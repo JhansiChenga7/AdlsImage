@@ -1,0 +1,6 @@
+@AdlsImage_HostAddress = http://localhost:5293
+
+GET {{AdlsImage_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
